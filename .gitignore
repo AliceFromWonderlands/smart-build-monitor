@@ -1,1 +1,17 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+venv/
+vendor/
+
+# Logs and databases
+*.log
+.env
